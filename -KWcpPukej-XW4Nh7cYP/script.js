@@ -25,5 +25,5 @@ setInterval(function() {
     }
   }) 	
 
-  index = index + 3
+  index = index + 1
 }, 500)
