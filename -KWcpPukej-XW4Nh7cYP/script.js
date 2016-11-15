@@ -30,7 +30,11 @@ setInterval(function() {
 
 
 $(document).ready(function() {
-  $('#custom').(function() {
+  $('#custom').mouseenter(function() {
+    $(this).toggle(1000);
+  }); 
+  
+  $('#custom').mouseleave(function() {
     $(this).toggle(1000);
   }); 
 });
