@@ -30,17 +30,7 @@ setInterval(function() {
 
 
 $(document).ready(function() {
-  $('#custom').mouseenter(function() {
-    $(this).animate({
-      height: '+=10px'
-    });
-  });
-  $('#custom').mouseleave(function() {
-    $(this).animate({
-      height: '-=10px'
-    }); 
-  });
-  $('#colorblock').click(function() {
+  $('#custom').(function() {
     $(this).toggle(1000);
   }); 
 });
