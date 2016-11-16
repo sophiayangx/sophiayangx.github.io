@@ -5,6 +5,10 @@ body {
   background-repeat: no-repeat;
 }
 
+.wrapper {
+  height:100%;
+}
+
 .title-container {
   margin-top: 40%;
 }
