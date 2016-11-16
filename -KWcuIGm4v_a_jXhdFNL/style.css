@@ -19,6 +19,13 @@ h2 {
   padding: 10px 14px;
   font-size: 16px;
   font-family: Beauty and the Beast;
+  margin-left: 180px;
+  transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+#button: hover {
+
 }
 
 
