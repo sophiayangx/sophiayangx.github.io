@@ -9,7 +9,8 @@ h2 {
   color: white;
   text-align: center;
   width: 50%;
-  margin-top: 177px;
+  margin-top: 150px;
+  margin-left: 20px;
   font-family: Beauty and the Beast;
   font-size: 40px;
 }
@@ -33,5 +34,5 @@ h2 {
 #div-button {
   width: 140px;
   margin-left: 90px;
-  margin-top: 10px;
+  margin-top: 15px;
 }
