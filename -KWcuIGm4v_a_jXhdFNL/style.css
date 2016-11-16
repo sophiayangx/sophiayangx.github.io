@@ -9,9 +9,5 @@ h2 {
   color: white;
   text-align: center;
   margin-top: 160px;
-  font-family: "My Custom Font";
+  font-family: Beauty and the Beast;
 }
-
-@font-face {
-  font-family: "My Custom Font";
-  src: url(downloads/beauty_and_the_beast/beautyandbeast.ttf) format("truetype");
