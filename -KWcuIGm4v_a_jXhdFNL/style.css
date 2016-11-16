@@ -10,6 +10,7 @@ body {
   align-items: center;
   height: 100%;
   justify-content: center;
+  text-align: center;
 }
 
 h2 {
@@ -37,7 +38,5 @@ h2 {
 }
 
 #div-button {
-  width: 140px;
-  margin-left: 80px;
   margin-top: 18px;
 }
