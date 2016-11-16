@@ -19,14 +19,15 @@ h2 {
   border: 2px solid white;
   padding: 10px 14px;
   font-size: 16px;
-  font-family: Beauty and the Beast;
+  font-family: capitals;
   margin-left: 180px;
   transition-duration: 0.4s;
   transition-duration: 0.4s;
 }
 
 #button:hover {
-background-color: white;
+  background-color: white;
+  color: black;
 }
 
 
