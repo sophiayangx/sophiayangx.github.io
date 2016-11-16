@@ -5,11 +5,14 @@ body {
   background-repeat: no-repeat;
 }
 
+.title-container {
+  margin-top: 40%;
+}
+
 h2 {
   color: white;
   text-align: center;
   width: 50%;
-  margin-top: 40%;
   margin-left: 20px;
   font-family: Beauty and the Beast;
   font-size: 40px;
