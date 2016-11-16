@@ -14,8 +14,8 @@ h2 {
 }
 
 #button {
-  background-color: white;
-  text-decoration: none;
+  background-color: yellow;
+  border: 2px solid white;
 }
 
 /*#button {*/
