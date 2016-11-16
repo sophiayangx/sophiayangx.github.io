@@ -34,7 +34,6 @@ h2 {
 }
 
 #project-button {
-  width: 700px ;
-  margin-left: auto ;
-  margin-right: auto ;
+  width: 100px;
+  margin: auto;
 }
