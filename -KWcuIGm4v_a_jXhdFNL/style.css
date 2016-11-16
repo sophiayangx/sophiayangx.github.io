@@ -11,7 +11,9 @@
 }
 
 .wrapper-projects {
-  background-image: url(http://i7.photobucket.com/albums/y259/nicolepink/icecreamcolorful.jpg)
+  background-image: url(http://i7.photobucket.com/albums/y259/nicolepink/icecreamcolorful.jpg);
+    height: 100%;
+  margin-right: 50%
 }
 
 h2 {
