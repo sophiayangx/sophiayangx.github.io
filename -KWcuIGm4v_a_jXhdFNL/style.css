@@ -11,9 +11,10 @@
 }
 
 .wrapper-projects {
-  background-image: url(http://i7.photobucket.com/albums/y259/nicolepink/icecreamcolorful.jpg);
+  background-image: url(http://rbk.h-cdn.co/assets/16/36/1473276309-cranberry-ice-cream-thanksgiving-dessert-33.jpg);
     height: 100%;
-  margin-right: 50%
+/*  margin-right: 50%;*/
+  background-size: cover;
 }
 
 h2 {
